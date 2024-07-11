@@ -1,4 +1,20 @@
-**?????GUN??**
+**动态迷宫 dynamic maze**
+
+自动生成任意维度的迷宫，体验高纬度迷宫。
+注意，因为没有很好利用高维运动特性，本质上还是二维迷宫。
+
+本项目主要是提供一个游戏思路。
+
+
+Automatically generate a maze of any dimension and experience a high-latitude maze.
+
+Note that because the high-dimensional motion characteristics are not well utilized, it is still essentially a two-dimensional maze.
+
+This project mainly provides a game idea.
+
+
+**本项目遵循GNU协议**
+
 
 
 >  Copyright (C) 2023 - 2024 Frms, All Rights Reserved.
